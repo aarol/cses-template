@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-D",
+      "LOCAL",
+      "-g",
+      "-o",
+      "main",
+      "main.cpp"
+    ],
+    "directory": "/home/aarol/aalto/cses/c",
+    "file": "/home/aarol/aalto/cses/c/main.cpp",
+    "output": "/home/aarol/aalto/cses/c/main"
+  }
+]
