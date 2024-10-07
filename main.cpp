@@ -1,9 +1,9 @@
 #include <bits/stdc++.h>
 
-#define ll long long
+#define int long long
 using namespace std;
 
-int main() {
+signed main() {
 #ifdef LOCAL
   auto in = ifstream("input.txt");
   cin.rdbuf(in.rdbuf());
